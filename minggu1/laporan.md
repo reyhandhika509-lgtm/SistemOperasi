@@ -148,21 +148,20 @@ Setelah instalasi Ubuntu Server, lakukan tasks berikut:
 
 >Jawaban    :
 >1. Step 1.
-![alt text](image/Ubuntu-1.png)
+![alt text](image/Update-1.png)
 >2. Step 2.
-![alt text](image/Ubuntu-2.png)
+![alt text](image/Update_2.png)
 >3. Step 3.
-![alt text](image/ubuntu-3.png)
+![alt text](image/Update-3.png)
 >4. Step 4.
-![alt text](image/ubuntu-4.png)
+![alt text](image/Update-4.png)
 >5. Step 5.
-![alt text](image/ubuntu-5.png)
+![alt text](image/Update-5.png)
 >6. Step 6.
-![alt text](image/ubuntu-6.png)
+![alt text](image/Update-6.png)
 >7. Step 7.
-![alt text](image/ubuntu-7.png)
->8. Step 8.
-![alt text](image/ubuntu-8.png)
+![alt text](image/Update-7.png)
+
 
 #### Latihan 1.5
 
